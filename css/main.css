@@ -28,7 +28,7 @@ header {
 /*---------- CONTENT AREA ----------*/
 
 .col-3 {
-  width: 100%;
+  width: 50%;
   height: 320px;
   float: left;
 }
@@ -45,6 +45,9 @@ header {
   background: green;
 }
 
+#column-4 {
+  background: orchid;
+}
 
 /*---------- FOOTER ----------*/
 
